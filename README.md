@@ -4,7 +4,7 @@ Set of scripts to assist remastering an iso image with custom settings for Debia
 ## Generic steps would be something like the following:
 
     # clone the project
-    git clone https://github.com/unixabg/remaster-iso.git
+    git clone https://github.com/RennyDem/remaster-iso.git
 
     # move to our remaster-iso directory
     cd remaster-iso
